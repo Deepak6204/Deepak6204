@@ -6,10 +6,10 @@
 </div>  
   
 
-### <div align="center">I'm Deepak Yadav, a web developer and competitive coder.</div>  
+### <div align="center">I'm Deepak Yadav</div>  
   
 
-- 🖥️ I’m currently learning AI/ML  
+- 🖥️ AI/ML, C/C++, Web development, Python
   
 
 - ❓ Ask me about anything related to development and DSA  
